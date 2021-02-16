@@ -9,6 +9,7 @@ import { HeroService } from '../service/hero.service';
 })
 export class HeroesComponent implements OnInit {
   heroesList: Hero[] = [];
+  phrase: string = "";
 
   constructor(
     heroService: HeroService,
@@ -17,6 +18,10 @@ export class HeroesComponent implements OnInit {
   }
 
   ngOnInit(): void {
+  }
+
+  onChangePhrase(event: Event): void {
+    this.phrase = (event.target as HTMLInputElement).value;
   }
 
 }
