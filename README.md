@@ -24,4 +24,4 @@ A következő pontok meglétét és működését fogjuk pontozni.
 ## Beadás
 *Határidő:* 2021-02-16 12:00
 
-[A feladatot beadni ide kattintva lehet egy űrlapon.](https://forms.office.com/Pages/ResponsePage.aspx?id=uo8WgI7Wd0uJJxcOS3B8gS4sxex9TpFNs4DtYO_uSaZUNlNFSUQwNU1SRUxSS0tPNk1JRVE1WEI5Ui4u)
+A feladatot beadni egy űrlapon lehet.
